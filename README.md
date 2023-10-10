@@ -1,4 +1,4 @@
-## EE-NTHU-SOCDesign-Lab
+# EE-NTHU-SOCDesign-Lab
 
 2023/July - 
 
