@@ -1,4 +1,4 @@
-https://hackmd.io/@FW1212/ryHPH6Uin
+[HackMD連結](https://hackmd.io/@FW1212/ryHPH6Uin)
 
 [課程影片連結](https://inst.eecs.berkeley.edu/~eecs151/fa22/)
 [課程講義連結](https://drive.google.com/drive/folders/1MW8sFs1gKWi86wfhuXOqe0HVXAEsVGQy)
