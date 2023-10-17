@@ -1,3 +1,6 @@
+
+[HackMD連結](https://hackmd.io/@FW1212/rJi9HWrqn)
+
 ## Part.1 Combinational Circuits
 [課程連結](https://www.udemy.com/course/hls-combinational-circuits/)
 
